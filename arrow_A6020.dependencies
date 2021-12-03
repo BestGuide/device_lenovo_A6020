@@ -7,7 +7,7 @@
   },
   {
     "remote":      "github",
-    "repository":  "hsj51/vendor_lenovo_A6020",
+    "repository":  "ibratabian17/vendor_lenovo_A6020",
     "target_path": "vendor/lenovo/A6020",
     "branch":      "11"
   }
