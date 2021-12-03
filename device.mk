@@ -22,8 +22,7 @@ PRODUCT_SOONG_NAMESPACES += \
 
 # Overlay
 DEVICE_PACKAGE_OVERLAYS += \
-    $(LOCAL_PATH)/overlay \
-    $(LOCAL_PATH)/overlay-aosip
+    $(LOCAL_PATH)/overlay
 
 $(call inherit-product, vendor/lenovo/A6020/A6020-vendor.mk)
 
