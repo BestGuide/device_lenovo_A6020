@@ -20,6 +20,9 @@ include vendor/lenovo/A6020/BoardConfigVendor.mk
 
 DEVICE_PATH := device/lenovo/A6020
 
+BUILD_BROKEN_DUP_RULES := true
+BUILD_BROKEN_USES_BUILD_COPY_HEADERS := true
+
 TARGET_SPECIFIC_HEADER_PATH := $(DEVICE_PATH)/include
 
 # Audio
