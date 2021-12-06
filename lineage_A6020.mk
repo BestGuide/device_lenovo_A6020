@@ -30,9 +30,8 @@ TARGET_SCREEN_HEIGHT := 1920
 TARGET_BOOTANIMATION_HALF_RES := true
 
 ## Device identifier. This must come after all inclusions
-DEVICE_MAINTAINER := Ibratabian17
 PRODUCT_DEVICE := A6020
-PRODUCT_NAME := arrow_A6020
+PRODUCT_NAME := lineage_A6020
 PRODUCT_BRAND := Lenovo
 PRODUCT_MODEL := Vibe K5
 PRODUCT_MANUFACTURER := Lenovo
